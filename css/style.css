@@ -1,0 +1,61 @@
+/* Importing Google fonts */
+@import url("https://fonts.googleapis.com/css?family=Lora|Roboto");
+
+/* Importing all components file */
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/list-top.css");
+@import url("components/title.css");
+@import url("components/filters.css");
+@import url("components/citizens.css");
+@import url("components/sections.css");
+
+
+/* General style rules for fonts and colors */
+body {
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	margin: 0px;
+	background-color: #fffee8;
+}
+
+a {
+	text-decoration: none;
+	font-family: 'Lora', serif;
+	font-size: 18px;
+}
+
+h1 {
+    font-family: 'Roboto';
+    font-size: 32px;
+    font-weight: bold;
+    background-color:rgba(0,0,0,0.0);
+    width: 405px;
+    text-align: center;
+    margin-top: -15px;
+}
+
+h2 {
+    font-family: 'Roboto';
+    font-size: 24px;
+    width: 405px;
+    background-color:rgba(0,0,0,0.0);
+}
+h3 {
+	font-family: 'Roboto';
+	color: #5C3108;
+	font-size: 24px;
+	font-weight: bold;
+}
+h4 {
+	font-family: 'Lora', serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #5C3108;
+	margin: 0px;
+	text-align: center;
+}
+#aboutyou-section {
+	margin-top: 880px;
+}

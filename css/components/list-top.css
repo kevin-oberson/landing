@@ -1,0 +1,39 @@
+.list-top {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.avatar {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.btn-topright {
+    background-color: white;
+    padding: 15px 20px;
+    border-radius: 4px;
+    border-radius: 4px;
+    color: #5C3108;
+    font-weight: regular;
+    font-family: 'Lora', sans-serif;
+    justify-content: center;
+    margin-right: 13px;
+    border-style: solid
+}
+.list-topright {
+    display: flex;
+    align-items: center;
+}
+
+.logo-topleft {
+    background-color: rgba(0, 0, 0, 0.0);
+    color: white;
+    font-family: 'Lora';
+    font-weight: bold;
+    padding: 5px 10px;
+    display: flex;
+    text-align: center;
+}

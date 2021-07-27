@@ -1,0 +1,17 @@
+.citizen {
+margin-bottom: 100px;
+}
+
+.avatarCitizen-circle {
+	border-radius: 50%;
+	width: 180px;
+	height: 180px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+}
+.presentation {
+	font-family: 'Lora', serif;
+	font-size: 16px;
+	color: #5C3108;
+	margin: 0px;
+	text-align: center;
+}
